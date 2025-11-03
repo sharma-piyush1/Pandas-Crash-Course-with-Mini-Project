@@ -1,0 +1,25 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+testenv/
+.env/
+
+# VS Code settings
+.vscode/
+
+# Data files (optional)
+*.csv
+*.xlsx
+*.pkl
+*.h5
+
+# OS files
+.DS_Store
+Thumbs.db
