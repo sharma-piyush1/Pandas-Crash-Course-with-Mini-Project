@@ -5,11 +5,6 @@ It’s designed for quick, practical learning and hands-on exploration of data m
 
 ---
 
-## 📂 Project Structure
-
-
----
-
 ## 🧠 Topics Covered
 
 - DataFrames and Series  
