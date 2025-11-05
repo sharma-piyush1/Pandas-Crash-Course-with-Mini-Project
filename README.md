@@ -34,6 +34,6 @@ By following this repository, learners will gain job-ready Pandas skills used in
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/sharma-piyush1/Pandas-Crash-Course.git
+git clone https://github.com/sharma-piyush1/Pandas-Crash-Course-with-Mini-Project.git
 cd Pandas-Crash-Course
 pip install -r requirements.txt
