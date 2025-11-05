@@ -1,21 +1,33 @@
 # 🐼 Pandas Crash Course
 
-This repository contains all practice notebooks and exercises from my Pandas Crash Course.  
-It’s designed for quick, practical learning and hands-on exploration of data manipulation using **Pandas**.
+# Pandas Crash Course by Piyush
 
----
+This repository is a complete hands-on Pandas learning path, including:
+- Data manipulation fundamentals
+- Data cleaning workflows
+- Aggregations & reporting
+- Time series analysis
+- Real business case mini project
 
-## 🧠 Topics Covered
+## 📂 Notebook Structure
+| File | Description |
+|------|-------------|
+| 01_Pandas_Basics.ipynb | Intro to Pandas & DataFrames |
+| 02_DataFrame_Operations.ipynb | Selecting, filtering, sorting |
+| 03_Data_Cleaning.ipynb | Handling missing data, duplicates, outliers |
+| 04_GroupBy_and_Aggregations.ipynb | Summaries & reporting |
+| 05_Merging_and_Joining.ipynb | Combining datasets |
+| 06_Apply_and_Vectorization.ipynb | Efficient data transformations |
+| 07_Datetime_and_TimeSeries.ipynb | Time-based indexing and analysis |
+| 08_Mini_Project_Employee_Analysis.ipynb | Real-world analytics project |
 
-- DataFrames and Series  
-- Reading/Writing CSV and Excel files  
-- Indexing, Filtering, and Sorting  
-- GroupBy and Aggregations  
-- Merging and Joining DataFrames  
-- Handling Missing Data  
-- Applying Functions and Lambda Expressions  
+## 🎓 Outcome
+By following this repository, learners will gain job-ready Pandas skills used in:
+- Data analysis
+- Business intelligence
+- ML preprocessing
+- Reporting and dashboarding
 
----
 
 ## ⚙️ Installation
 
